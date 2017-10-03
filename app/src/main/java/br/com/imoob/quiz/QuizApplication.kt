@@ -14,8 +14,6 @@ class QuizApplication : Application() {
         super.onCreate()
         appInstance = this
 
-        val mediaPlay = MediaPlayer.create(this, R.raw.sound)
-        mediaPlay.start()
     }
 
 
