@@ -1,0 +1,192 @@
+[
+	{
+		"id": 1,
+		"question": "Qual é o principal componente de um computador?",
+		"answers": [
+			{
+			  "answer": "Monitor"
+			},
+			{
+			  "answer": "Memória"
+			},
+			{
+			  "answer": "Teclado"
+			},
+			{
+			  "answer": "Placa mãe"
+			}
+		],
+		"correctAnswer": "Placa mãe"
+	},
+	{
+		"id": 2,
+		"question": "Na falta de quais destes componentes, você não consegue utilizar um computador?",
+		"answers": [
+			{
+			  "answer": "Mouse"
+			},
+			{
+			  "answer": "Teclado"
+			},
+			{
+			  "answer": "Processador"
+			},
+			{
+			  "answer": "Leitor de CD ou DVD"
+			}
+		],
+		"correctAnswer": "Processador"
+	},
+	{
+		"id": 3,
+		"question": "As imagens em sites às vezes aparecem tão rápido, por quê?",
+		"answers": [
+			{
+			  "answer": "Porque o servidor que você está acessando está na sua cidade"
+			},
+			{
+			  "answer": "Porque tem pouca gente usando o site"
+			},
+			{
+			  "answer": "Porque a sua internet e banda larga (conexão rápida)"
+			},
+			{
+			  "answer": "Porque o seu computador costuma guardar, num lugar chamado \"cache\", as imagens que você busca costumeiramente"
+			}
+		],
+		"correctAnswer": "Porque o seu computador costuma guardar, num lugar chamado \"cache\", as imagens que você busca costumeiramente"
+	},
+	{
+		"id": 4,
+		"question": "A evolução dos computadores se baseia em quais pontos principais?",
+		"answers": [
+			{
+			  "answer": "Memórias e facilidade de uso"
+			},
+			{
+			  "answer": "Processamento e facilidade de uso"
+			},
+			{
+			  "answer": "Interatividade e rapidez"
+			},
+			{
+			  "answer": "Processamento e armazenamento"
+			}
+		],
+		"correctAnswer": "Processamento e armazenamento"
+	},
+	{
+		"id": 5,
+		"question": "São computadores usados em ambiente de rede para aumentar a produtividade dos usuários em uma empresa, normalmente disponibilizados a esses funcionários dentro de um departamento. Uma das características é o não uso de disco rígido. Refere-se a qual tecnologia?",
+		"answers": [
+			{
+			  "answer": "Notebook"
+			},
+			{
+			  "answer": "Thinclient"
+			},
+			{
+			  "answer": "PALM"
+			},
+			{
+			  "answer": "Servidor"
+			}
+		],
+		"correctAnswer": "Thinclient"
+	},
+	{
+		"id": 6,
+		"question": "Qual o conceito que envolve pessoas e procedimentos que auxiliam usuários quando estes possuem alguma dificuldade no ambiente de trabalho quando usam a informática?",
+		"answers": [
+			{
+				"answer": "Treinamento"
+			},
+			{
+				"answer": "Serviço Terceirizado"
+			},
+			{
+				"answer": "Help Desk"
+			},
+			{
+				"answer": "Assistência Técnica"
+			}
+		],
+		"correctAnswer": "Help Desk"
+	},
+	{
+		"id": 7,
+		"question": "São exemplos de hardware, somente:",
+		"answers": [
+			{
+				"answer": "Placa de vídeo, Scanner e OCR"
+			},
+			{
+				"answer": "Mouse, placa de vídeo e Windows"
+			},
+			{
+				"answer": "Memória, Leitor de código de barras e placa de rede"
+			},
+			{
+				"answer": "Word, impressora e monitor"
+			}
+		],
+		"correctAnswer": "Memória, Leitor de código de barras e placa de rede"
+	},
+	{
+		"id": 8,
+		"question": "É um tipo de computador que tem como função controlar as demais estações de trabalho quando ligados em uma rede de computadores:",
+		"answers": [
+			{
+				"answer": "Desktop"
+			},
+			{
+				"answer": "Notebook"
+			},
+			{
+				"answer": "PDA"
+			},
+			{
+				"answer": "Servidor"
+			}
+		],
+		"correctAnswer": "Servidor"
+	},
+	{
+		"id": 9,
+		"question": "Na terminologia usual de microinformática, os dados Pentium IV, 3.0 Ghz, 256 Mb RAM, HD 40 Gb, teclado padrão ABNT, placa de vídeo 128 mb AGP, constituem um modelo de:",
+		"answers": [
+			{
+				"answer": "Organização"
+			},
+			{
+				"answer": "Layout"
+			},
+			{
+				"answer": "Configuração"
+			},
+			{
+				"answer": "Estruturação"
+			}
+		],
+		"correctAnswer": "Configuração"
+	},
+	{
+		"id": 10,
+		"question": "As partes físicas do microcomputador só funcionam de maneira lógica quando executam ordens contidas em um programa ou em um conjunto de programas. A parte composta pelos programas – que transforma as partes físicas do microcomputador em uma unidade lógica de processamento – é chamada de:",
+		"answers": [
+			{
+				"answer": "Hardware"
+			},
+			{
+				"answer": "Selfware"
+			},
+			{
+				"answer": "Netware"
+			},
+			{
+				"answer": "Software"
+			}
+		],
+		"correctAnswer": "Software"
+	}
+]

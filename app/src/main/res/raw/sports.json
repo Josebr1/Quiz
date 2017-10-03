@@ -1,0 +1,192 @@
+[
+	{
+		"id": 1,
+		"question": "Quem venceu a Champions League de 2008?",
+		"answers": [
+			{
+			  "answer": "Real Madrid"
+			},
+			{
+			  "answer": "Manchester United FC"
+			},
+			{
+			  "answer": "Chelsea"
+			},
+			{
+			  "answer": "Barcelona"
+			}
+		],
+		"correctAnswer": "Manchester United"
+	},
+	{
+		"id": 2,
+		"question": "Qual seleção foi a campeã mundial de 2006?",
+		"answers": [
+			{
+			  "answer": "Alemanha"
+			},
+			{
+			  "answer": "França"
+			},
+			{
+			  "answer": "Itália"
+			},
+			{
+			  "answer": "Brasil"
+			}
+		],
+		"correctAnswer": "Itália"
+	},
+	{
+		"id": 3,
+		"question": "Quais os maiores campeões do Campeonato Brasileiro?",
+		"answers": [
+			{
+			  "answer": "Corinthians e Flamengo"
+			},
+			{
+			  "answer": "São Paulo e Palmeiras"
+			},
+			{
+			  "answer": "Fluminense e Vasco"
+			},
+			{
+			  "answer": "Santos e Palmeiras"
+			}
+		],
+		"correctAnswer": "Santos e Palmeiras"
+	},
+	{
+		"id": 4,
+		"question": "Qual time foi campeão da NBA 2011?",
+		"answers": [
+			{
+			  "answer": "Miami Heat"
+			},
+			{
+			  "answer": "Boston Celtics"
+			},
+			{
+			  "answer": "San Antonio Spurs"
+			},
+			{
+			  "answer": "Dallas Mavericks"
+			}
+		],
+		"correctAnswer": "Dallas Mavericks"
+	},
+	{
+		"id": 5,
+		"question": "Quem venceu a Copa do Mundo de 1950?",
+		"answers": [
+			{
+			  "answer": "Alemanha"
+			},
+			{
+			  "answer": "China"
+			},
+			{
+			  "answer": "Itália"
+			},
+			{
+			  "answer": "Uruguai"
+			}
+		],
+		"correctAnswer": "Uruguai"
+	},
+	{
+		"id": 6,
+		"question": "Quem venceu o Campeonato Mundial Interclubes de Basquete de 2014?",
+		"answers": [
+			{
+				"answer": "Real Madrid"
+			},
+			{
+				"answer": "Flamengo"
+			},
+			{
+				"answer": "Pinheiros"
+			},
+			{
+				"answer": "Barcelona"
+			}
+		],
+		"correctAnswer": "Flamengo"
+	},
+	{
+		"id": 7,
+		"question": "Quem venceu o Masters 1000 de Xangai 2014?",
+		"answers": [
+			{
+				"answer": "Novak Djokovic"
+			},
+			{
+				"answer": "Juan Martín Del Potro"
+			},
+			{
+				"answer": "Roger Federer"
+			},
+			{
+				"answer": "Davi Ferrer"
+			}
+		],
+		"correctAnswer": "Roger Federer"
+	},
+	{
+		"id": 8,
+		"question": "Olimpíadas de Inverno: Qual cidade e país a sediou em 2014?",
+		"answers": [
+			{
+				"answer": "Londres, Inglaterra"
+			},
+			{
+				"answer": "Berna, Suiça"
+			},
+			{
+				"answer": "Sochi, Rússia"
+			},
+			{
+				"answer": "São Paulo, Brasil"
+			}
+		],
+		"correctAnswer": "Sochi, Rússia"
+	},
+	{
+		"id": 9,
+		"question": "Volêi: Qual a atual (2014) seleção feminina campeã olímpica?",
+		"answers": [
+			{
+				"answer": "Estados Unidos"
+			},
+			{
+				"answer": "Rússia"
+			},
+			{
+				"answer": "China"
+			},
+			{
+				"answer": "Brasil"
+			}
+		],
+		"correctAnswer": "Brasil"
+	},
+	{
+		"id": 10,
+		"question": "Futebol: Qual foi a seleção adversária da Argentina nas oitavas de final da Copa do Mundo de 2014?",
+		"answers": [
+			{
+				"answer": "Brasil"
+			},
+			{
+				"answer": "Suiça"
+			},
+			{
+				"answer": "Chile"
+			},
+			{
+				"answer": "Grécia"
+			}
+		],
+		"correctAnswer": "Suiça"
+	}
+]
